@@ -1,4 +1,4 @@
-# CS355 Seacrh Engine
+# CS355 Search Engine
 ## This is a group project that me and my team built for our CS 355 Class.
 ### It not like Google, it can only list the few sites that we picked
 
@@ -7,7 +7,6 @@
 * CSS
 * Bootstrap
 * PHP
-* mysql
+* MySQL
 * Python
-* Javascript (jQuery)
-
+* JavaScript (jQuery)
